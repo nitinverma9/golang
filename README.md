@@ -1,1 +1,2 @@
 # golang
+STARTING OF PERSONAL GOAL 11-July-2020
